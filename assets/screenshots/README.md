@@ -1,25 +1,23 @@
 # TailorIQ screenshot gallery
 
-These screenshots document the application with **entirely fictional** candidate and job-description content.
+These screenshots document the TailorIQ resume-tailoring workflow, using an entirely fictional Evan Calder sample resume and fictional Asterline Logistics job description.
 
-## Before and after
+## Resume transformation
 
-| Slightly inconsistent original resume | Tailored resume output |
+| Original resume | Tailored output |
 | --- | --- |
-| ![Evan Calder fictional source resume](01-original-resume.png) | ![TailorIQ fictional tailored resume](03-tailored-resume.png) |
+| ![Slightly inconsistent fictional source resume](01-original-resume.png) | ![TailorIQ generated fictional resume](03-tailored-resume.png) |
 
-## Tailoring workflow
+## Product interface
 
-![Workspace with fictional uploaded resume and job posting](02-workspace-with-job-description.png)
+![TailorIQ workspace with selected fictional resume and job description](02-workspace-with-job-description.png)
 
-![Resume Length options and Tailor My Resume actions](04-resume-length-and-actions.png)
+![TailorIQ resume length and tailoring controls](04-resume-length-and-actions.png)
 
-![Empty resume-tailoring workspace](05-workspace-overview.png)
+![TailorIQ workspace overview](05-workspace-overview.png)
 
-## Landing page
+![TailorIQ landing page](06-landing-page.png)
 
-![TailorIQ website landing page](06-landing-page.png)
+Note: These images represent the application screens at the time of capture; the product may evolve. The sample names, resumes, and job postings are fictional.
 
-*These are screenshots of the product during development and demonstration; interface appearance may change. All sample applicant and employer details shown are fictional.*
-
-[Back to TailorIQ overview](../../README.md)
+[Back to project overview](../../README.md)
